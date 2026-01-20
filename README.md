@@ -1,25 +1,12 @@
 <h1 align="center">Hi 👋, I'm Angelo Rosales</h1>
 <h3 align="center">A passionate student from the Philippines</h3>
 
-- 🔭 I’m currently working on [dads](asd)
 
 - 🌱 I’m currently learning **BSIT**
-
-- 👯 I’m looking to collaborate on [asdasd](asda)
-
-- 🤝 I’m looking for help with [sdas](dasd)
-
-- 👨‍💻 All of my projects are available at [dads](dads)
-
-- 📝 I regularly write articles on [asda](asda)
 
 - 💬 Ask me about **Java and Python**
 
 - 📫 How to reach me **a.rosales.555735@umindanao.edu.ph**
-
-- 📄 Know about my experiences [das](das)
-
-- ⚡ Fun fact **adasdas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
